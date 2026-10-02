@@ -1439,9 +1439,9 @@ alt="Animated thank you message"
 <br><br>
 
 <img
-src="https://media1.tenor.com/m/OrTxUvUW9Z4AAAAC/gud-bye.gif"
-width="300"
-alt="Goodbye animated GIF"
+  src="https://i.pinimg.com/originals/42/0f/3f/420f3f94553aa54f69ab48dab4e69832.gif"
+  width="500"
+  alt="Animated GIF"
 />
 
 <br>
