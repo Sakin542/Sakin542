@@ -822,6 +822,9 @@ alt="Animated project statistics"
 <br>
 
 <div align="center">
+<table align="center">
+<tr>
+<td>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -850,6 +853,9 @@ alt="Animated project statistics"
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+</td>
+</tr>
+</table>
 </div>
 
 <br>
